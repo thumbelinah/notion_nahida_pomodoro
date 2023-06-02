@@ -15,7 +15,7 @@ body {
 
 button,
 button:active {
-  background-color: rgb(234,178,156);
+  background-color: rgb(127,181,145);
   border: none;
   width: 42px;
   height: 40px;
@@ -101,7 +101,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid rgb(234,178,156);
+  border: 2px solid rgb(127,181,145);
   padding: 10px;
   border-radius: 10px;
   width: 48%;
